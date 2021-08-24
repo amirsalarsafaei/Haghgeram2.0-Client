@@ -1,0 +1,49 @@
+Utils/GsonHandler.java
+ Utils.GsonHandler
+ Utils.LocalDateDeserializer
+ Utils.LocalDateSerializer
+ Utils.LocalDateTimeDeserializer
+ Utils.LocalDateTimeSerializer
+FileHandling/GsonHandler.java
+ FileHandling.GsonHandler
+ FileHandling.LocalDateDeserializer
+ FileHandling.LocalDateSerializer
+ FileHandling.LocalDateTimeDeserializer
+ FileHandling.LocalDateTimeSerializer
+Models/Networking/Request.java
+ Models.Networking.Request
+Holder/SocketHolder.java
+ Holder.SocketHolder
+Properties/properties.java
+ Properties.properties
+FileHandling/Properties.java
+ FileHandling.Properties
+Models/Networking/Response.java
+ Models.Networking.Response
+FileHandling/FileHandler.java
+ FileHandling.FileHandler
+Models/Networking/ResponseType.java
+ Models.Networking.ResponseType
+Holder/TokenHolder.java
+ Holder.TokenHolder
+Utils/GraphicAgent.java
+ Utils.GraphicAgent
+Applications/Authentication/Views/Register.java
+ Applications.Authentication.Views.Register
+Models/Networking/RequestType.java
+ Models.Networking.RequestType
+Models/Events/AuthEvent.java
+ Models.Events.AuthEvent
+StreamHandler/StreamHandler.java
+ StreamHandler.StreamHandler
+Holder/DataStreamHolder.java
+ Holder.DataStreamHolder
+Applications/Authentication/Controllers/LoginController.java
+ Applications.Authentication.Controllers.LoginController
+Applications/Authentication/Controllers/RegisterController.java
+ Applications.Authentication.Controllers.RegisterController
+main.java
+ main
+ main$YourRealApplication
+Applications/Authentication/Views/Login.java
+ Applications.Authentication.Views.Login

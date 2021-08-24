@@ -1,0 +1,85 @@
+{
+  "messages": [
+    {
+      "user": {
+        "username": "mani",
+        "id": 460,
+        "image": null
+      },
+      "content": "adsfdasf",
+      "image": null,
+      "timeSent": "21::Aug::2021 21::22::50",
+      "tweet": null,
+      "id": 463,
+      "status": "Seen"
+    },
+    {
+      "user": {
+        "username": "mani",
+        "id": 460,
+        "image": null
+      },
+      "content": "adsfdasfasdffads",
+      "image": null,
+      "timeSent": "21::Aug::2021 21::22::50",
+      "tweet": null,
+      "id": 464,
+      "status": "Seen"
+    },
+    {
+      "user": {
+        "username": "mani",
+        "id": 460,
+        "image": null
+      },
+      "content": "adsfdasfasdffadsasdfsafafsd",
+      "image": null,
+      "timeSent": "21::Aug::2021 21::22::52",
+      "tweet": null,
+      "id": 465,
+      "status": "Seen"
+    },
+    {
+      "user": {
+        "username": "mani",
+        "id": 460,
+        "image": null
+      },
+      "content": "@Tweet458",
+      "image": null,
+      "timeSent": "22::Aug::2021 00::06::51",
+      "tweet": null,
+      "id": 467,
+      "status": "Seen"
+    },
+    {
+      "user": {
+        "username": "mani",
+        "id": 460,
+        "image": null
+      },
+      "content": "@Tweet100",
+      "image": null,
+      "timeSent": "22::Aug::2021 00::08::42",
+      "tweet": null,
+      "id": 468,
+      "status": "Seen"
+    },
+    {
+      "user": {
+        "username": "mani",
+        "id": 460,
+        "image": null
+      },
+      "content": "sadgdgdsaf",
+      "image": null,
+      "timeSent": "22::Aug::2021 00::15::00",
+      "tweet": null,
+      "id": 466,
+      "status": "Seen"
+    }
+  ],
+  "name": "bedoneTO",
+  "id": 462,
+  "group": true
+}

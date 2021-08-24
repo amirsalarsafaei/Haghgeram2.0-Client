@@ -1,0 +1,48 @@
+2021-07-25 22:47:44.592 [main] FATAL Utils.properties - couldn't find address properties
+2021-07-25 22:47:44.593 [main] ERROR Utils.properties - couldn't find address server
+2021-07-25 22:47:44.594 [main] FATAL Utils.properties - couldn't find server config properties
+2021-07-25 22:47:44.594 [main] ERROR Utils.properties - couldn't find server config address
+2021-07-25 22:47:44.594 [main] FATAL Utils.properties - couldn't find address properties
+2021-07-25 22:47:44.594 [main] ERROR Utils.properties - couldn't find address server
+2021-07-25 22:47:44.595 [main] FATAL Utils.properties - couldn't find server config properties
+2021-07-25 22:47:44.595 [main] ERROR Utils.properties - couldn't find server config port
+2021-07-29 15:33:47.288 [JavaFX Application Thread] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-07-29 17:33:10.629 [JavaFX Application Thread] ERROR StreamHandler.StreamHandler - Couldn't send Request to server
+2021-07-29 17:59:56.408 [JavaFX Application Thread] ERROR StreamHandler.StreamHandler - Couldn't send Request to server
+2021-07-29 18:09:10.457 [JavaFX Application Thread] ERROR StreamHandler.StreamHandler - Couldn't send Request to server
+2021-07-29 18:11:29.752 [JavaFX Application Thread] ERROR StreamHandler.StreamHandler - Couldn't send Request to server
+2021-07-29 18:14:30.140 [JavaFX Application Thread] ERROR StreamHandler.StreamHandler - Couldn't send Request to server
+2021-07-29 18:16:59.226 [Thread-2] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-07-29 18:17:23.733 [JavaFX Application Thread] ERROR StreamHandler.StreamHandler - Couldn't send Request to server
+2021-07-29 18:22:12.591 [JavaFX Application Thread] ERROR StreamHandler.StreamHandler - Couldn't send Request to server
+2021-07-29 18:33:01.110 [JavaFX Application Thread] ERROR StreamHandler.StreamHandler - Couldn't send Request to server
+2021-07-29 18:37:43.644 [JavaFX Application Thread] ERROR StreamHandler.StreamHandler - Couldn't send Request to server
+2021-07-29 18:37:43.827 [JavaFX Application Thread] ERROR StreamHandler.StreamHandler - Couldn't send Request to server
+2021-07-29 18:37:44.032 [JavaFX Application Thread] ERROR StreamHandler.StreamHandler - Couldn't send Request to server
+2021-07-31 22:52:34.628 [Thread-89] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-07-31 22:52:34.628 [Thread-95] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-07-31 22:52:34.628 [Thread-99] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-07-31 22:52:34.628 [Thread-97] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-07-31 22:52:34.628 [Thread-96] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-07-31 22:52:34.628 [Thread-88] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-07-31 22:52:34.628 [Thread-101] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-07-31 22:52:34.628 [Thread-84] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-07-31 22:52:34.628 [Thread-100] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-07-31 22:52:34.628 [Thread-94] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-07-31 22:52:34.628 [Thread-92] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-07-31 22:52:34.628 [Thread-98] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-07-31 22:52:34.628 [Thread-86] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-07-31 22:52:34.628 [Thread-93] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-07-31 22:52:34.628 [Thread-90] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-07-31 22:52:34.628 [Thread-83] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-07-31 22:52:34.628 [Thread-85] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-07-31 22:52:34.628 [Thread-91] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-07-31 22:58:05.103 [Thread-337] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-08-01 01:05:51.993 [Thread-315] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-08-01 01:07:02.567 [Thread-103] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-08-01 01:09:03.328 [Thread-197] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-08-01 01:14:47.117 [Thread-603] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-08-01 01:44:00.789 [JavaFX Application Thread] ERROR StreamHandler.StreamHandler - Couldn't send Request to server
+2021-08-01 01:57:47.633 [JavaFX Application Thread] ERROR StreamHandler.StreamHandler - Couldn't send Request to server
+2021-08-01 19:29:27.073 [JavaFX Application Thread] ERROR StreamHandler.StreamHandler - Couldn't get response from server
+2021-08-01 19:32:34.461 [JavaFX Application Thread] ERROR StreamHandler.StreamHandler - Couldn't get response from server

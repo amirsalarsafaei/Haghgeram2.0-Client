@@ -1,0 +1,72 @@
+{
+  "messages": [
+    {
+      "user": {
+        "username": "binaryboy",
+        "id": 407,
+        "image": null
+      },
+      "content": "chetori",
+      "image": null,
+      "timeSent": "21::Aug::2021 17::15::00",
+      "tweet": null,
+      "id": 425,
+      "status": "UnDelivered"
+    },
+    {
+      "user": {
+        "username": "binaryboy",
+        "id": 407,
+        "image": null
+      },
+      "content": "chetori",
+      "image": null,
+      "timeSent": "21::Aug::2021 17::15::00",
+      "tweet": null,
+      "id": 426,
+      "status": "UnDelivered"
+    },
+    {
+      "user": {
+        "username": "binaryboy",
+        "id": 407,
+        "image": null
+      },
+      "content": "chetori",
+      "image": null,
+      "timeSent": "21::Aug::2021 17::15::00",
+      "tweet": null,
+      "id": 424,
+      "status": "UnDelivered"
+    },
+    {
+      "user": {
+        "username": "binaryboy",
+        "id": 407,
+        "image": null
+      },
+      "content": "help",
+      "image": null,
+      "timeSent": "21::Aug::2021 17::15::00",
+      "tweet": null,
+      "id": 427,
+      "status": "UnDelivered"
+    },
+    {
+      "user": {
+        "username": "binaryboy",
+        "id": 407,
+        "image": null
+      },
+      "content": "salam",
+      "image": null,
+      "timeSent": "21::Aug::2021 17::34::01",
+      "tweet": null,
+      "id": 418,
+      "status": "Seen"
+    }
+  ],
+  "name": "amirsalar, yasamin",
+  "id": 417,
+  "group": false
+}
